@@ -1,13 +1,10 @@
 # napari-networkx
 
-> **Warning**
-> This repository has been archived, please refer to [jwindhager/napari-networkx](https://github.com/jwindhager/napari-networkx).
-
-[![License MIT](https://img.shields.io/pypi/l/napari-networkx.svg?color=green)](https://github.com/BodenmillerGroup/napari-networkx/raw/main/LICENSE)
+[![License MIT](https://img.shields.io/pypi/l/napari-networkx.svg?color=green)](https://github.com/jwindhager/napari-networkx/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-networkx.svg?color=green)](https://pypi.org/project/napari-networkx)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-networkx.svg?color=green)](https://python.org)
-[![tests](https://github.com/BodenmillerGroup/napari-networkx/workflows/tests/badge.svg)](https://github.com/BodenmillerGroup/napari-networkx/actions)
-[![codecov](https://codecov.io/gh/BodenmillerGroup/napari-networkx/branch/main/graph/badge.svg)](https://codecov.io/gh/BodenmillerGroup/napari-networkx)
+[![tests](https://github.com/jwindhager/napari-networkx/workflows/tests/badge.svg)](https://github.com/jwindhager/napari-networkx/actions)
+[![codecov](https://codecov.io/gh/jwindhager/napari-networkx/branch/main/graph/badge.svg)](https://codecov.io/gh/jwindhager/napari-networkx)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-networkx)](https://napari-hub.org/plugins/napari-networkx)
 
 A napari plugin to read and write spatial graphs using networkx
@@ -30,7 +27,7 @@ You can install `napari-networkx` via [pip]:
 
 To install latest development version:
 
-    pip install git+https://github.com/BodenmillerGroup/napari-networkx.git
+    pip install git+https://github.com/jwindhager/napari-networkx.git
 
 ## Contributing
 
@@ -51,7 +48,7 @@ If you encounter any problems, please [file an issue] along with a detailed desc
 [@napari]: https://github.com/napari
 [MIT]: http://opensource.org/licenses/MIT
 [cookiecutter-napari-plugin]: https://github.com/napari/cookiecutter-napari-plugin
-[file an issue]: https://github.com/BodenmillerGroup/napari-networkx/issues
+[file an issue]: https://github.com/jwindhager/napari-networkx/issues
 [tox]: https://tox.readthedocs.io/en/latest/
 [pip]: https://pypi.org/project/pip/
 [PyPI]: https://pypi.org/
